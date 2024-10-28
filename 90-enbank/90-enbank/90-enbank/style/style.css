@@ -1,0 +1,16 @@
+*{
+    direction: rtl;
+    font-family: Vazirmatn FD;
+}
+header, #slider, #services, #news, #bcards, #group, #smedia, footer,#copyright{
+    padding: 50px;
+    text-align: center;
+    border: 1px solid black;
+}
+#slider{
+    padding: 80px;
+    background-color: #f2f2f2;
+}
+#servicesSection{
+    background-color: #4d257b;
+}
